@@ -22,3 +22,17 @@ Pengerjaan project menggunakan sql dan python. Project ini bertujuan untuk menda
 ![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/Data%20proc%20obj%201.png?raw=true)
 ![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/obj%202.png?raw=true)
 ![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/obj%203.png?raw=true)
+
+## Explanation
+
+1. Top 10 Kategori Produk dengan Penjualan Terbanyak
+   
+Dapat dilihat ternyata harga tidak terlalu berpengaruh pada tingkat penjualan produknya, kategori health_beauty yang merupakan kategori dengan harga relatif mahal (top 3 harga rata-rata termahal) ternyata merupakan kategori produk dengan jumlah penjualan terbesar kedua.
+
+2. 3 Kota dengan Penjualan Terbesar & 3 Kota dengan Penjualan Terkecil
+   
+Jumlah transaksi berbanding lurus dengan jumlah total nominal transaksi yang berlangsung pada suatu daerah. Semakin banyak transaski maka total nominalnya juga semain besar, hal ini berarti peran kuantitas produk atau banyaknya jumlah produk yang dibeli memiliki pengaruh terhadap total pendapatan perusahaan pada setiap kota. Kedepannya lebih baik jika memperbanyak produk dengan harga yang relatif terjangkau daripada menjual produk luxury dengan harga mahal untuk 1 produk.
+
+3. Tingkat Kepuasan Produk
+   
+Ternyata produk dengan rating tinggi bukan produk yang paling banyak terjual (top 10), ini berarti produk-produk yang memiliki rating tinggi berpotensi untuk menjadi produk yang bisa saja memiliki jumlah penjualan yang tinggi, karena rating yang tinggi berarti tingkat kepuasan terhadap produk tersebut juga tinggi. Kepuasan yang tinggi sudah menjadi modal tersendiri pada produk-produk tersebut, sehingga kedepannya diperlukan penambahan atau peningkatan penjualan produk-produk yang memiliki nilai rating yang tinggi
