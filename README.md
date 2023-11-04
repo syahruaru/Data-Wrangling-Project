@@ -6,14 +6,17 @@ Pengerjaan project menggunakan sql dan python. Project ini bertujuan untuk menda
 
 ## Tahapan Pengolahan Data
 
-1. Import library
+1. Import library & Eksplor Data
    
-![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%201%20import%20library%20&%20data.png?raw=true)
+![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/impot%20library.png?raw=true)
+
+![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/Eksplor%20database.png?raw=true)
 
 3. Data Processing (Handling missing, Duplicate, Outlier Data)
    
-![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%201%20import%20library%20&%20data.png?raw=true)
+![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/Handling%20Outlier.png?raw=true)
+![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/Eda%20Obj%201.png?raw=true)
 
 5. Analysis Data
    
-![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%201%20import%20library%20&%20data.png?raw=true)
+![Alt text](https://github.com/syahruaru/Data-Wrangling-Project/blob/main/img/Data%20proc%20obj%201.png?raw=true)
