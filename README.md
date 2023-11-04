@@ -4,6 +4,10 @@
 Project ini menganalisa data pada suatu E-commerce, data yang digunakan merupakan database relasional olist database. 
 Pengerjaan project menggunakan sql dan python. Project ini bertujuan untuk mendapatkan informasi mengenai database yang ada dan memberi insight baru untuk mengoptimalkan penjualan dengan pemanfaatan data driven.
 
+### Full Explanation
+
+https://medium.com/@aruromadhon/e-commerce-data-wrangling-project-b055e3c1d026
+
 ## Tahapan Pengolahan Data
 
 1. Import library & Eksplor Data
